@@ -1,0 +1,2 @@
+# fortran-practice
+研究でfortranを使うことになったので文法とかの練習したコードをここに置く.
