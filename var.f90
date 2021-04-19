@@ -8,6 +8,7 @@ program main
     d = "xyz"
     print *, a, b , c
     print *, c * pi
+    print *, cmplx(pi)
     print *, e
     print *, d
 end program main
